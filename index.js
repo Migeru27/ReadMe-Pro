@@ -1,7 +1,7 @@
 // Imports needed for this application
 const fs = require("fs");
 const inquirer = require("inquirer");
-const generateMarkdown = require("./utils/generateMarkdown.js");
+const generateMarkdown = require("generateMarkdown.js");
 
 // Array of questions for user to input
 const questions = [
