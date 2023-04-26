@@ -80,7 +80,7 @@ function renderLicenseSection(data) {
 
 
 
-// TODO: Create a function to generate markdown for README
+// generates markdown for README
 function generateMarkdown(data) {
   var license = renderLicenseSection(data);
   var licenseBadge = renderLicenseBadge(data);
