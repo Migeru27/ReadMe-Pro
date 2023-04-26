@@ -18,7 +18,7 @@ I wanted to make the process of making a read me a bit more efficient and fun. I
 
 ## Screenshots 
 
-![Link to video demonstration](https://streamable.com/yf4xkz)
+[Link to video demonstration](https://streamable.com/yf4xkz)
 
 
 ## Links 
